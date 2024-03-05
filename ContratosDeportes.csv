@@ -1,0 +1,99 @@
+﻿rank,name,org,sport,contract_val,avg_per_year,avg_per_game,num_years,duration,left,retired,not_guaranteed
+1,Lionel Messi,F.C. Barcelona,Association football,674000000,168500000,4434210,4,2017-2021,0,0,0
+2,Cristiano Ronaldo,Al-Nassr,Association football,536336818,214534727,7151158,2.5,2023-2025,0,0,0
+3,Patrick M,Kansas City Chiefs,American football,503000000,41916667,2465686,10,2020-2031,0,0,1
+4,Mike Trout,Los Angeles Angels,Baseball,426500000,35541667,219393,12,2019-2030,0,0,0
+5,Canelo Álvarez,DAZN,Boxing,365000000,73000000,33181818,5,2018-2023,0,0,0
+6,Mookie Betts,Los Angeles Dodgers,Baseball,365000000,30416667,187757,12,2021-2032,0,0,0
+7,Aaron Judge,New York Yankees,Baseball,360000000,40000000,246913,9,2023-2031,0,0,0
+9,Francisco Lindor,New York Mets,Baseball,341000000,34100000,210494,10,2022-2031,0,0,0
+10,Fernando Tatís Jr.,San Diego Padres,Baseball,340000000,24285714,149912,14,2021-2034,0,0,0
+11,Bryce Harper,Philadelphia Phillies,Baseball,330000000,25384615,156695,13,2019-2031,0,0,0
+12,Giancarlo Stanton,Miami Marlins,Baseball,325000000,25000000,154320,13,2015-2027,1,0,0
+13,Corey Seager,Texas Rangers,Baseball,325000000,32500000,200617,10,2022-2031,0,0,0
+14,Gerrit Cole,New York Yankees,Baseball,324000000,36000000,222222,9,2020-2028,0,0,0
+15,Manny Machado,San Diego Padres,Baseball,300000000,30000000,185185,10,2019-2028,0,0,0
+16,Trea Turner,Philadelphia Phillies,Baseball,300000000,27272727,168350,11,2023-2033,0,0,0
+17,Xander Bogaerts,San Diego Padres,Baseball,280000000,25454545,157127,11,2023-2033,0,0,0
+18,Alex R,New York Yankees,Baseball,275000000,27500000,169753,10,2008-2017,1,1,0
+19,Max Verstappen,Red Bull Racing,Auto racing,275000000,53300000,2422727,5,2023-2028,0,0,0
+20,Nikola Jokic,Denver Nuggets,Basketball,264000000,52800000,643902,5,2023-2028,0,0,0
+21,Nolan Arenado,Colorado Rockies,Baseball,260000000,32500000,200617,8,2019-2026,1,0,0
+22,Josh Allen,Buffalo Bills,American football,258000000,43000000,2529412,6,2021-2028,0,0,1
+23,Alex R,Texas Rangers,Baseball,252000000,25200000,155555,10,2001-2010,1,1,0
+24,Bradley Beal,Washington Wizards,Basketball,251000000,50200000,612195,5,2022-2027,0,0,0
+25,Miguel Cabrera,Detroit Tigers,Baseball,248000000,31000000,191358,8,2016-2023,0,0,0
+26,Anthony Rendon,Los Angeles Angels,Baseball,245000000,35000000,216049,7,2020-2026,0,0,0
+26,Stephen Strasburg,Washington Nationals,Baseball,245000000,35000000,216049,7,2020-2026,0,0,0
+28,Russell Wilson,Denver Broncos,American football,242588236,48517647,2853979,5,2022-2026,0,0,1
+29,Albert Pujols,Los Angeles Angels,Baseball,240000000,24000000,148148,10,2012-2021,1,1,0
+30,Robinson Canó,Seattle Mariners,Baseball,240000000,24000000,148148,10,2014-2023,1,0,0
+31,Kyler Murray,Arizona Cardinals,American football,230500000,46100000,2711765,5,2022-2026,0,0,1
+32,Deshaun Watson,Cleveland Browns,American football,230000000,46000000,2705882,5,2022-2026,0,0,0
+33,Giannis Antetokounmpo,Milwaukee Bucks,Basketball,228200830,45640166,556587,5,2021-2026,0,0,0
+34,James Harden,Houston Rockets,Basketball,228000000,38000000,463414,6,2017-2023,1,0,0
+35,Joey Votto,Cincinnati Reds,Baseball,225000000,22500000,138888,10,2014-2023,0,0,0
+36,Karl-Anthony Towns,Minnesota Timberwolves,Basketball,224000000,56000000,682927,4,2024-2028,0,0,0
+36,Devin Booker,Phoenix Suns,Basketball,224000000,56000000,682927,4,2024-2028,0,0,0
+38,David Price,Boston Red Sox,Baseball,217000000,31000000,191358,7,2016-2022,1,0,0
+39,Stephen Curry,Golden State Warriors,Basketball,215353664,53838416,656566,4,2022-2026,0,0,0
+40,Zach LaVine,Chicago Bulls,Basketball,215200000,53800000,656098,5,2022-2027,0,0,0
+41,Trae Young,Atlanta Hawks,Basketball,215159700,43031940,524778,5,2022-2027,0,0,0
+42,Clayton Kershaw,Los Angeles Dodgers,Baseball,215000000,30714286,189594,7,2014-2020,0,0,0
+43,Christian Yelich,Milwaukee Brewers,Baseball,215000000,23888889,147462,9,2020-2028,0,0,0
+44,Prince Fielder,Detroit Tigers,Baseball,214000000,23777778,146776,9,2012-2020,1,1,0
+45,Max Scherzer,Washington Nationals,Baseball,210000000,30000000,185185,7,2015-2021,1,0,0
+46,Julio Rodríguez,Seattle Mariners,Baseball,209300000,17441667,107665,13,2022-2034,0,0,0
+47,Luka Doncic,Dallas Mavericks,Basketball,207060000,41412000,505024,5,2022-2027,0,0,0
+48,Russell Westbrook,Oklahoma City Thunder,Basketball,206794070,41358814,504375,5,2018-2023,1,0,0
+49,Zack Greinke,Arizona Diamondbacks,Baseball,206500000,34416667,212448,6,2016-2021,1,0,0
+50,Rudy Gobert,Utah Jazz,Basketball,205000000,41000000,500000,5,2021-2026,1,0,0
+51,Stephen Curry,Golden State Warriors,Basketball,201158790,40231758,490631,5,2017-2022,0,0,0
+52,Kevin Durant,Brooklyn Nets,Basketball,197656906,49414227,602613,4,2022-2026,0,0,0
+53,Klay Thompson,Golden State Warriors,Basketball,189903600,37980720,463179,5,2019-2024,0,0,0
+54,Derek Jeter,New York Yankees,Baseball,189000000,18900000,116666,10,2001-2010,0,1,0
+55,Jimmy Butler,Miami Heat,Basketball,186592000,46648000,568878,4,2022-2026,0,0,0
+56,Jacob deGrom,Texas Rangers,Baseball,185000000,37000000,228395,5,2023-2027,0,0,0
+57,Joe Mauer,Minnesota Twins,Baseball,184000000,23000000,141975,8,2011-2018,0,1,0
+58,Jason Heyward,Chicago Cubs,Baseball,184000000,23000000,141975,8,2016-2023,0,0,0
+59,Kris Bryant,Colorado Rockies,Baseball,182000000,26000000,160493,7,2022-2028,0,0,0
+60,Wander Franco,Tampa Bay Rays,Baseball,182000000,16545455,102132,11,2022-2032,0,0,0
+61,Mark Teixeira,New York Yankees,Baseball,180000000,22500000,138888,8,2009-2016,1,1,0
+62,Justin Verlander,Detroit Tigers,Baseball,180000000,25714286,158730,7,2013-2019,1,0,0
+63,Tobias Harris,Philadelphia 76ers,Basketball,180000000,36000000,429024,5,2019-2024,0,0,0
+63,Khris Middleton,Milwaukee Bucks,Basketball,177500000,35500000,432926,5,2019-2024,0,0,0
+65,Deshaun Watson,Houston Texans,American football,177500000,29583333,1740196,6,2020-2025,1,0,0
+66,Ben Simmons,Philadelphia 76ers,Basketball,177243360,35448672,432301,5,2020-2025,1,0,0
+67,Dansby Swanson,Chicago Cubs,Baseball,177000000,25285714,156085,7,2023-2029,0,0,0
+68,Paul George,Los Angeles Clippers,Basketball,176265468,44066367,544029,4,2021-2025,0,0,0
+68,Kawhi Leonard,Los Angeles Clippers,Basketball,176265152,44066288,544028,4,2021-2025,0,0,0
+68,Damian Lillard,Portland Trail Blazers,Basketball,176265152,44066288,544028,4,2021-2025,0,0,0
+71,Félix Hernández,Seattle Mariners,Baseball,175000000,25000000,154320,7,2013-2019,1,0,0
+72,Stephen Strasburg,Washington Nationals,Baseball,175000000,25000000,154320,7,2017-2023,0,0,0
+73,Marcus Semien,Texas Rangers,Baseball,175000000,25000000,154320,7,2022-2028,0,0,0
+74,Shai Gilgeous-Alexander,Oklahoma City Thunder,Basketball,172550000,34510000,420854,5,2022-2027,0,0,0
+75,Blake Griffin,Los Angeles Clippers,Basketball,171174820,34234964,417499,5,2017-2022,1,0,0
+76,John Wall,Washington Wizards,Basketball,171174820,42793708,521874,4,2019-2023,1,0,0
+77,Matt Olson,Atlanta Braves,Baseball,168000000,21000000,129630,8,2022-2029,0,0,0
+78,Buster Posey,San Francisco Giants,Baseball,167000000,18555556,114540,9,2013-2021,0,1,0
+79,Kevin Durant,Golden State Warriors,Basketball,164255700,41063925,500799,4,2019-2023,1,0,0
+80,José Altuve,Houston Astros,Baseball,163500000,23357143,144179,7,2018-2024,0,0,0
+81,Bam Adebayo,Miami Heat,Basketball,163000590,32600118,397562,5,2021-2026,0,0,0
+81,De'Aaron Fox,Sacramento Kings,Basketball,163000590,32600118,397562,5,2021-2026,0,0,0
+83,Donovan Mitchell,Utah Jazz,Basketball,163000590,32600118,397562,5,2021-2026,1,0,0
+83,Jayson Tatum,Boston Celtics,Basketball,163000590,32600118,397562,5,2021-2026,0,0,0
+85,Freddie Freeman,Los Angeles Dodgers,Baseball,162000000,27000000,166667,6,2022-2027,0,0,0
+86,Brandon Nimmo,New York Mets,Baseball,162000000,20250000,125000,8,2023-2030,0,0,0
+87,CC Sabathia,New York Yankees,Baseball,161000000,23000000,141975,7,2009-2015,1,1,0
+88,Chris Davis,Baltimore Orioles,Baseball,161000000,23000000,141975,7,2016-2022,1,1,0
+89,Manny Ramírez,Boston Red Sox,Baseball,160000000,20000000,123456,8,2001-2008,1,1,0
+90,Matt Kemp,Los Angeles Dodgers,Baseball,160000000,20000000,123456,8,2012-2019,1,1,0
+91,Dak Prescott,Dallas Cowboys,American football,160000000,40000000,2352941,4,2021-2024,0,0,1
+92,Matthew Stafford,Los Angeles Rams,American football,160000000,40000000,2352941,4,2022-2026,0,0,1
+93,Chris Paul,Houston Rockets,Basketball,159730592,39932648,486983,4,2018-2022,1,0,0
+94,Devin Booker,Phoenix Suns,Basketball,158253000,31650600,385982,5,2018-2023,0,0,0
+95,Kristaps Porzingis,Dallas Mavericks,Basketball,158253000,31650600,385982,5,2019-2024,1,0,0
+95,Karl-Anthony Towns,Minnesota Timberwolves,Basketball,158253000,31650600,385982,5,2019-2024,0,0,0
+97,Brandon Ingram,New Orleans Pelicans,Basketball,158253000,31650600,385982,5,2020-2025,0,0,0
+97,Jamal Murray,Denver Nuggets,Basketball,158253000,31650600,385982,5,2020-2025,0,0,0
+99,Troy Tulowitzki,Colorado Rockies,Baseball,157750000,15775000,97376,10,2011-2020,1,1,0
